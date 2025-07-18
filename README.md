@@ -86,4 +86,4 @@ Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar!
 
 ## 👨‍💻 Autor
 
-Feito por **Seu Nome Aqui** — contribuições são bem-vindas! 🤝
+Feito por **Samuel Silva dos Anjos** — contribuições são bem-vindas! 🤝
