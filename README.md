@@ -25,7 +25,7 @@ A cada **6 jogatinas**, os pontos acumulados são zerados.
 
 1. **Execute o script**:
    ```bash
-   python nome_do_arquivo.py
+   AtaPLUS.py
    ```
 2. **Siga as instruções no terminal**:
    - Digite um número entre 1 e 500  
